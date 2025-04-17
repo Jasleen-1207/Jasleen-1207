@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on tradeveil.
+ - 🌱 I’m currently learning javascript.
+- 💬 Ask me about nothing about studies.
 <!--
 **Jasleen-1207/Jasleen-1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
